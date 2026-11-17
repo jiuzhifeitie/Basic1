@@ -1,0 +1,15 @@
+Builds/
+JuceLibraryCode/
+.vs/
+*.suo
+*.user
+*.pdb
+*.obj
+*.log
+*.ipch
+*.vst3
+*.aax
+*.au
+*.jucer.bak
+Thumbs.db
+.DS_Store
